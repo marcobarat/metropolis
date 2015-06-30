@@ -1,0 +1,134 @@
+[
+    {
+        "film1": [
+            {
+                "giorno": "\n                  martedì 23                "
+            },
+            {
+                "titolo": "   Torno indietro e cambio vita   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Carlo-Vanzina-al-cinema-con-Torno-indietro-e-cambio-vita-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/torno-indietro-e-cambio-vita/"
+            },
+            {
+                "titolo": "   Fuga in tacchi a spillo   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/fuga-in-tacchi-a-spillo-locandina-150x214.png",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fuga-in-tacchi-a-spillo/"
+            },
+            {
+                "titolo": "   Unfriended   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Unfriended_Teaser_Poster_Italia_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/unfriended/"
+            },
+            {
+                "titolo": "   Jurassic World – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world-2d/"
+            },
+            {
+                "titolo": "   Jurassic World – 3D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world/"
+            },
+            {
+                "titolo": "   Mobile Suit Gundam – The Origin I   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/GundamOrigins_LOC-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/mobile-suit-gundam-the-origin-i/"
+            },
+            {
+                "titolo": "   Fury   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/fury_notizia-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fury/"
+            }
+        ],
+        "film2": [
+            {
+                "giorno": "\n                  mercoledì 24                "
+            },
+            {
+                "titolo": "   Torno indietro e cambio vita   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Carlo-Vanzina-al-cinema-con-Torno-indietro-e-cambio-vita-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/torno-indietro-e-cambio-vita/"
+            },
+            {
+                "titolo": "   Fuga in tacchi a spillo   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/fuga-in-tacchi-a-spillo-locandina-150x214.png",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fuga-in-tacchi-a-spillo/"
+            },
+            {
+                "titolo": "   Albert e il diamante magico   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/albert-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/albert-e-il-diamante-magico/"
+            },
+            {
+                "titolo": "   Unfriended   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Unfriended_Teaser_Poster_Italia_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/unfriended/"
+            },
+            {
+                "titolo": "   Jurassic World – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world-2d/"
+            },
+            {
+                "titolo": "   Jurassic World – 3D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world/"
+            },
+            {
+                "titolo": "   Mobile Suit Gundam – The Origin I   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/GundamOrigins_LOC-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/mobile-suit-gundam-the-origin-i/"
+            },
+            {
+                "titolo": "   Fury   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/fury_notizia-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fury/"
+            }
+        ],
+        "film3": [
+            {
+                "giorno": "\n                  giovedì 25                "
+            },
+            {
+                "titolo": "   Ted 2   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/10924620_953845727966480_8022922447812071045_o-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ted-2-2/"
+            },
+            {
+                "titolo": "   Ruth e Alex   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/51260-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ruth-e-alex/"
+            },
+            {
+                "titolo": "   Big Game   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Big-Game-poster-locandina-2015-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/big-game/"
+            },
+            {
+                "titolo": "   Torno indietro e cambio vita   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Carlo-Vanzina-al-cinema-con-Torno-indietro-e-cambio-vita-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/torno-indietro-e-cambio-vita/"
+            },
+            {
+                "titolo": "   Unfriended   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Unfriended_Teaser_Poster_Italia_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/unfriended/"
+            },
+            {
+                "titolo": "   Jurassic World – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world-2d/"
+            },
+            {
+                "titolo": "   Jurassic World – 3D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world/"
+            },
+            {
+                "titolo": "   Fury   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/fury_notizia-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fury/"
+            }
+        ]
+    }
+]

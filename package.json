@@ -1,0 +1,30 @@
+{
+  "name": "metropolis",
+  "version": "1.0.0",
+  "description": "metropolis scrape",
+  "main": "server.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.55.0",
+    "express": "^4.12.3",
+    "jsdom": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcobarat/metropolis.git"
+  },
+  "keywords": [
+    "metropolis"
+  ],
+  "author": "marcob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcobarat/metropolis/issues"
+  },
+  "homepage": "https://github.com/marcobarat/metropolis"
+}
